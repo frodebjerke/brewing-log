@@ -23,6 +23,7 @@ Brewing Checklist
 1. Tap ut vørteren fra meskekaret og over til det vaskede gjæringskaret
 1. Sørg for at vørteren har riktig temperatur i henhold til gjærtypen. Typisk et sted mellom 12 og 25 grader.
 1. Tilsett gjæren og sørg for at nok luft blir blandet inn i vørteren.
+1. Tilsett vann i gjæringslåsen.
 
 ** Vasking **
 
@@ -30,3 +31,17 @@ Brewing Checklist
 1. Skyll motstromskjøleren
 1. Flytt meskekaret. Skyll og vask.
 1. Vask resten av greiene
+
+** Omstikk **
+
+1. Husk å sterilisere alt som er i nærheten av ølet.
+1. Stikk til nytt gjæringskar for å bli kvitt gjæringskake og snerk.
+1. Lag sukkerlake. 6gram sukker per liter. Så lite vann som mulig. Sjøl sukkerlake raskt ned til under 30 grader.
+1. Bland sukkerlake godt inn i ølet.
+
+** Flasking **
+
+1. Vask flasker med syrevask.
+1. Skyll med kaldt vann rett før tapping.
+1. Tapp øl til flaske.
+1. Kork.
